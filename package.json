@@ -1,0 +1,10 @@
+{
+  "name": "deviation-collaboration-demo",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "C:\\Progra~1\\nodejs\\node.exe build.mjs",
+    "preview": "C:\\Progra~1\\nodejs\\node.exe server.mjs"
+  }
+}
